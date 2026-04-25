@@ -1,4 +1,4 @@
-# STM32F103C8T6 OLED Menu
+# 32F103C8T6 OLED Menu
 
 This project is based on the STM32F103 series microcontroller and includes modules such as OLED menu, encoder input, TB6612 motor driver control, and MPU6050 sensor reading. It uses a Keil uVision project file and can be compiled, downloaded, and debugged directly in Keil.
 
